@@ -62,7 +62,7 @@ Data Modeling: Designed a Snowflake Schema with 1 central fact table and multipl
 ## 📸 Dashboard Preview
 
 **Sales Overview**
-![Sales Overview](1780739931993_image.png)
+![Sales Overview](https://github.com/Shaunak2829/OYO-Rooms-Sales-Hotel-Performance-Cancellations-Analysis/blob/main/Oyo%20sales%20overview.png)
 
 **Hotel Performance**
 ![Hotel Performance](Hotel_Performance.png)
